@@ -46,9 +46,6 @@ javac UserTwo.java
 java UserTwo
 ```
 
-### Screenshots
-_(Add screenshots here if available)_
-
 ### Future Enhancements
 - Add a user authentication system.
 - Implement a private messaging feature.
